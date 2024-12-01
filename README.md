@@ -1,3 +1,5 @@
+Note: Forked by me for learning purposes. If I add any functionality, they will be listed here.
+
 # Daily_GUI_Tools
 
 	A repository of my daily GUI designed tools. Primarily for Windows.
